@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.box-one {
+    background-color: #eb5757;
+    border: 20px solid #9b51e0;
+    padding: 20px;
+    margin: -20px;
+    width: 100px;
+    height: 100px;
+}
+.box-two {
+    background-color: #2d9cdb;
+    padding: 20px;
+    border: 20px solid #27ae60;
+    margin: -40px;
+    width: 100px;
+    height: 100px;
+}
+.box {
+    background-color: #eb5757;
+    padding: 20px;
+    border: 20px solid #9b51e0;
+    width: 100px;
+    height: 100px;
+    margin: auto auto 40px 20px;
+}
+h2 {
+    margin: 0 0 20px 0;
+}
+
+p {
+    margin: 10px 0 0 0;
+}
